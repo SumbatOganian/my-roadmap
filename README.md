@@ -234,8 +234,6 @@ npm run build
 
 **Sumbat Oganian**
 
-GitHub: `@ogansamuel07`
-
 ## Лицензия
 
 Этот проект можно использовать как основу для собственного learning tracker, roadmap planner или обучающего pet-project.
