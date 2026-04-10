@@ -227,6 +227,12 @@ npm run build
 GitHub: `@ogansamuel07`
 
 ---
+![Roadmap Screenshot] ![Uploading screen.png…]()
+
+
+
+
+---
 
 ## Лицензия
 
