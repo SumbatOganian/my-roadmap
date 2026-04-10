@@ -236,14 +236,6 @@ npm run build
 
 GitHub: `@ogansamuel07`
 
----
-![Roadmap Screenshot] ![Uploading screen.png…]()
-
-
-
-
----
-
 ## Лицензия
 
 Этот проект можно использовать как основу для собственного learning tracker, roadmap planner или обучающего pet-project.
