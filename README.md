@@ -69,6 +69,7 @@
 Roadmap покрывает такие направления:
 
 ### Фаза 1 — Python Core
+
 - основы Python;
 - типы данных;
 - структуры данных;
@@ -78,6 +79,7 @@ Roadmap покрывает такие направления:
 - asyncio и typing.
 
 ### Фаза 2 — Web + Databases
+
 - FastAPI;
 - PostgreSQL;
 - SQLAlchemy;
@@ -88,6 +90,7 @@ Roadmap покрывает такие направления:
 - API Design.
 
 ### Фаза 3 — Tests + DevOps
+
 - pytest;
 - unit / integration testing;
 - Docker;
@@ -96,6 +99,7 @@ Roadmap покрывает такие направления:
 - deployment.
 
 ### Фаза 4 — Architecture + Portfolio
+
 - Celery;
 - SOLID;
 - design patterns;
@@ -121,6 +125,12 @@ Roadmap покрывает такие направления:
 - вопросы.
 
 Это делает проект удобным для расширения: можно добавлять новые недели, менять структуру, адаптировать roadmap под другой стек или под другой уровень.
+
+---
+
+## Скриншот
+
+![Главный экран](./screenshots/main.png)
 
 ---
 
